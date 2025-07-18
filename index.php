@@ -13,14 +13,14 @@
   <meta property="og:title" content="TokoMard - Belanja Online Terpercaya">
   <meta property="og:description" content="Belanja online mudah & murah di TokoMard. Nikmati diskon besar dan pengiriman cepat!">
   <meta property="og:image" content="https://imgur.com/q3DzxiB">
-  <meta property="og:url" content="https://imgur.com/q3DzxiB">
+  <meta property="og:url" content="https://tokomard.store/">
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="TokoMard - Belanja Online Terpercaya">
   <meta name="twitter:description" content="Belanja online mudah & murah di TokoMard. Nikmati diskon besar dan pengiriman cepat!">
-  <meta name="twitter:image" content="https://example.com/images/preview.jpg">
-  <meta name="twitter:url" content="https://example.com/">
+  <meta name="twitter:image" content="https://imgur.com/q3DzxiB">
+  <meta name="twitter:url" content="https://tokomard.store/">
 
   <!-- Favicon -->
   <link rel="icon" href="https://imgur.com/q3DzxiB">
