@@ -1,0 +1,18 @@
+# Swap files (vim, nano, dll)
+*.swp
+*.swo
+
+# Backup files
+*~
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Sistem
+.DS_Store
+Thumbs.db
+
+# Log
+*.log
+
