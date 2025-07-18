@@ -102,7 +102,7 @@
   <!-- Kategori -->
   <div class="bg-white py-6">
     <div class="max-w-7xl mx-auto px-4">
-      <h2 class="text-lg font-bold mb-4">Kategori</h2>
+      <h2 class="text-lg font-bold mb-4">KATEGORI</h2>
       <div class="grid grid-cols-6 gap-6 text-center">
         <div>
           <img src="https://cf.shopee.co.id/file/icon_elektronik.png" class="mx-auto w-12" alt="">
