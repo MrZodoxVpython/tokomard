@@ -23,7 +23,7 @@
   <meta name="twitter:url" content="https://example.com/">
 
   <!-- Favicon -->
-  <link rel="icon" href="https://cf.shopee.co.id/file/shopee_logo.png">
+  <link rel="icon" href="https://imgur.com/q3DzxiB">
 
   <!-- Tailwind CSS -->
   <script src="https://cdn.tailwindcss.com"></script>
