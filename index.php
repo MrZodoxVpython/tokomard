@@ -57,7 +57,7 @@
       <input type="text" placeholder="Search di Tokomard..." class="w-2/3 px-4 py-2 rounded">
       <div class="relative">
         <img src="https://cdn-icons-png.flaticon.com/512/263/263142.png" class="w-8 h-8" alt="cart">
-        <span class="absolute -top-2 -right-2 bg-red-600 text-xs px-1 rounded-full">329</span>
+        <span class="absolute -top-2 -right-2 bg-red-600 text-xs px-1 rounded-full">83</span>
       </div>
     </div>
   </header>
