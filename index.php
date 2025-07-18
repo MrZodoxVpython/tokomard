@@ -53,7 +53,7 @@
 
     <!-- Logo dan Search -->
     <div class="flex items-center justify-between px-4 py-4 max-w-7xl mx-auto">
-  <link rel="icon" href="https://i.imgur.com/q3DzxiB.png">
+    <a href="https://i.imgur.com/q3DzxiB.png"></a>
       <div class="text-2xl font-bold text-white">Tokomard</div>
       <input type="text" placeholder="Search di Tokomard..." class="w-2/3 px-4 py-2 rounded">
       <div class="relative">
