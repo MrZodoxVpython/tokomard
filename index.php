@@ -62,12 +62,43 @@
         <span class="absolute -top-2 -right-2 bg-red-600 text-xs px-1 rounded-full">83</span>
       </div>
     </div>
-      <div class="flex gap-4 m-4 mx-auto text-center">
-        <a href="#">Notifikasi</a>
-        <a href="#">Bantuan</a>
-        <a href="#">Bahasa Indonesia</a>
-        <a href="#">benjamin</a>
-      </div>
+<!-- Kategori Submenu -->
+<div class="bg-orange-500">
+  <div class="max-w-7xl mx-auto px-4 py-2">
+    <div class="flex flex-wrap gap-4 text-white text-sm">
+      <span class="cursor-pointer hover:underline">Tas</span>
+      <span class="cursor-pointer hover:underline">Huawei E537</span>
+      <span class="cursor-pointer hover:underline">Antena Huawei E5577</span>
+      <span class="cursor-pointer hover:underline">Adaptor Wifi</span>
+      <span class="cursor-pointer hover:underline">Stiker Video Unboxing</span>
+      <span class="cursor-pointer hover:underline">TV Stick Smart TV</span>
+      <span class="cursor-pointer hover:underline">Modem Portable</span>
+      <span class="cursor-pointer hover:underline">Kaos Sablon Custom</span>
+      <span class="cursor-pointer hover:underline">Kartu XL</span>
+      <span class="cursor-pointer hover:underline">Sabun GIV Cair 900ml</span>
+      <span class="cursor-pointer hover:underline">Sandal Wanita</span>
+      <span class="cursor-pointer hover:underline">Wifi Extender TP Link</span>
+      <span class="cursor-pointer hover:underline">Wifi 7</span>
+      <span class="cursor-pointer hover:underline">Jam Tangan Pria</span>
+      <span class="cursor-pointer hover:underline">Kipas Angin Portable</span>
+      <span class="cursor-pointer hover:underline">STB Tanpa Box</span>
+      <span class="cursor-pointer hover:underline">Modem 5G</span>
+      <span class="cursor-pointer hover:underline">4000jam Tayang</span>
+      <span class="cursor-pointer hover:underline">Kabel LAN 1 Meter</span>
+      <span class="cursor-pointer hover:underline">Kabel USB Male To Male</span>
+      <span class="cursor-pointer hover:underline">Orbit Star Z2</span>
+      <span class="cursor-pointer hover:underline">Receiver Parabola</span>
+      <span class="cursor-pointer hover:underline">Adaptor 12v</span>
+      <span class="cursor-pointer hover:underline">Sticker Custom</span>
+      <span class="cursor-pointer hover:underline">Modem XL</span>
+      <span class="cursor-pointer hover:underline">Set Top Box</span>
+      <span class="cursor-pointer hover:underline">Mi Stick</span>
+      <span class="cursor-pointer hover:underline">Trojan Premium</span>
+      <span class="cursor-pointer hover:underline">Remot STB Bekas</span>
+      <span class="cursor-pointer hover:underline">SSD Bekas</span>
+    </div>
+  </div>
+</div>
 
   </header>
 
