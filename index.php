@@ -68,7 +68,7 @@
 <div class="bg-orange-500">
   <div class="max-w-7xl mx-auto px-24 pb-1">
     <div class="flex flex-wrap gap-4 text-white text-xs">
-      <div class="ml-[128px] flex flex-wrap gap-4">
+      <div class="ml-[158px] flex flex-wrap gap-4">
         <!-- ml-[144px] disesuaikan berdasarkan layout -->
         <span class="cursor-pointer hover:underline">Tas</span>
         <span class="cursor-pointer hover:underline">Huawei E537</span>
