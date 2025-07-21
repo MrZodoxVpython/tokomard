@@ -62,7 +62,7 @@
         <span class="absolute -top-2 -right-2 bg-red-600 text-xs px-1 rounded-full">83</span>
       </div>
     </div>
-      <div class="flex gap-4 p-4 mx-auto text-center">
+      <div class="flex gap-4 m-4 mx-auto text-center">
         <a href="#">Notifikasi</a>
         <a href="#">Bantuan</a>
         <a href="#">Bahasa Indonesia</a>
