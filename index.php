@@ -137,7 +137,7 @@
       <p class="text-sm mt-2">Voucher & Diskon</p>
     </div>
     <div>
-      <img src="https://i.imgur.com/aGkWcBd.png" class="mx-auto w-10 border border-gray-300" alt="">
+      <img src="https://i.imgur.com/aGkWcBd.png" class="mx-auto w-10 border border-gray-300 rounded-lg" alt="">
       <p class="text-sm mt-2">Semua Promo</p>
     </div>
   </div>
