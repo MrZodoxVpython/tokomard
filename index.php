@@ -142,6 +142,71 @@
     </div>
   </div>
 </div>
+<!-- KATEGORI Grid -->
+<div class="bg-[#f5f5f5] py-6">
+  <div class="max-w-[1200px] mx-auto px-4">
+    <div class="bg-white border border-gray-200">
+      <h2 class="text-lg font-semibold px-6 pt-6 pb-4">KATEGORI</h2>
+
+      <!-- Grid kategori 6 kolom per baris -->
+      <div class="grid grid-cols-6 border-t border-l border-gray-200">
+        <!-- Contoh item kategori, tinggal salin -->
+        <div class="flex flex-col items-center justify-center border-r border-b border-gray-200 h-36 p-2">
+          <img src="https://down-id.img.susercontent.com/file/dcd61dcb7c1448a132f49f938b0cb553@resize_w320_nl.webp" class="w-12 h-12 object-contain" alt="Elektronik">
+          <p class="mt-2 text-sm text-center">Elektronik</p>
+        </div>
+
+        <div class="flex flex-col items-center justify-center border-r border-b border-gray-200 h-36 p-2">
+          <img src="https://down-id.img.susercontent.com/file/id-50009109-0bd6a9ebd0f2ae9b7e8b9ce7d89897d6@resize_w320_nl.webp" class="w-12 h-12 object-contain" alt="Komputer">
+          <p class="mt-2 text-sm text-center">Komputer & Aksesoris</p>
+        </div>
+
+        <div class="flex flex-col items-center justify-center border-r border-b border-gray-200 h-36 p-2">
+          <img src="https://down-id.img.susercontent.com/file/5230277eefafad8611aaf703d3e99568@resize_w320_nl.webp" class="w-12 h-12 object-contain" alt="Handphone">
+          <p class="mt-2 text-sm text-center">Handphone</p>
+        </div>
+
+        <div class="flex flex-col items-center justify-center border-r border-b border-gray-200 h-36 p-2">
+          <img src="https://down-id.img.susercontent.com/file/04dba508f1ad19629518defb94999ef9@resize_w320_nl.webp" class="w-12 h-12 object-contain" alt="Pakaian Pria">
+          <p class="mt-2 text-sm text-center">Pakaian Pria</p>
+        </div>
+
+        <div class="flex flex-col items-center justify-center border-r border-b border-gray-200 h-36 p-2">
+          <img src="https://down-id.img.susercontent.com/file/3c8ff51aab1692a80c5883972a679168@resize_w320_nl.webp" class="w-12 h-12 object-contain" alt="Sepatu Pria">
+          <p class="mt-2 text-sm text-center">Sepatu Pria</p>
+        </div>
+
+        <div class="flex flex-col items-center justify-center border-b border-gray-200 h-36 p-2">
+          <img src="https://down-id.img.susercontent.com/file/47ed832eed0feb62fd28f08c9229440e@resize_w320_nl.webp" class="w-12 h-12 object-contain" alt="Tas Pria">
+          <p class="mt-2 text-sm text-center">Tas Pria</p>
+        </div>
+
+        <!-- Tambah kategori lainnya di bawah ini dengan struktur yang sama -->
+        <div class="flex flex-col items-center justify-center border-r border-b border-gray-200 h-36 p-2">
+          <img src="https://down-id.img.susercontent.com/file/1f18bdfe73df39c66e7326b0a3e08e87@resize_w320_nl.webp" class="w-12 h-12 object-contain" alt="Aksesoris Fashion">
+          <p class="mt-2 text-sm text-center">Aksesoris Fashion</p>
+        </div>
+
+        <div class="flex flex-col items-center justify-center border-r border-b border-gray-200 h-36 p-2">
+          <img src="https://down-id.img.susercontent.com/file/2bdf8cf99543342d4ebd8e1bdb576f80@resize_w320_nl.webp" class="w-12 h-12 object-contain" alt="Jam Tangan">
+          <p class="mt-2 text-sm text-center">Jam Tangan</p>
+        </div>
+
+        <div class="flex flex-col items-center justify-center border-r border-b border-gray-200 h-36 p-2">
+          <img src="https://down-id.img.susercontent.com/file/eb7d583e4b72085e71cd21a70ce47d7a@resize_w320_nl.webp" class="w-12 h-12 object-contain" alt="Kesehatan">
+          <p class="mt-2 text-sm text-center">Kesehatan</p>
+        </div>
+
+        <div class="flex flex-col items-center justify-center border-r border-b border-gray-200 h-36 p-2">
+          <img src="https://down-id.img.susercontent.com/file/42394b78fac1169d67c6291973a3b132@resize_w320_nl.webp" class="w-12 h-12 object-contain" alt="Hobi & Koleksi">
+          <p class="mt-2 text-sm text-center">Hobi & Koleksi</p>
+        </div>
+
+        <!-- Duplikat kategori jika perlu -->
+      </div>
+    </div>
+  </div>
+</div>
 
 <!-- KATEGORI Grid -->
 <div class="bg-[#f5f5f5] py-6">
