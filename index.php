@@ -153,7 +153,7 @@
         </div>
         <div>
           <img src="https://cf.shopee.co.id/file/icon_otomotif.png" class="mx-auto w-12" alt="">
-          <p class="mt-2 text-sm">Otomotif</p>
+          <p class="mt-2 text-sm">Aksesoris Fashion</p>
         </div>
       </div>
     </div>
