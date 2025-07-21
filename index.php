@@ -276,6 +276,51 @@
       <h2 class="text-lg font-semibold px-6 pt-6 pb-4">KATEGORI</h2>
 
       <div class="grid grid-cols-6 gap-0 border-t border-l border-gray-200">
+ <div>
+          <img src="https://down-id.img.susercontent.com/file/dcd61dcb7c1448a132f49f938b0cb553@resize_w320_nl.webp" class="mx-auto w-12" alt="">
+          <p class="mt-2 text-sm">Elektronik</p>
+        </div>
+        <div>
+          <img src="https://down-id.img.susercontent.com/file/id-50009109-0bd6a9ebd0f2ae9b7e8b9ce7d89897d6@resize_w320_nl.webp" class="mx-auto w-12" alt="">
+          <p class="mt-2 text-sm">Komputer & Aksesoris</p>
+        </div>
+        <div>
+          <img src="https://down-id.img.susercontent.com/file/5230277eefafad8611aaf703d3e99568@resize_w320_nl.webp" class="mx-auto w-12" alt="">
+          <p class="mt-2 text-sm">Handphone</p>
+        </div>
+        <div>
+          <img src="https://down-id.img.susercontent.com/file/04dba508f1ad19629518defb94999ef9@resize_w320_nl.webp" class="mx-auto w-12" alt="">
+          <p class="mt-2 text-sm">Pakaian Pria</p>
+        </div>
+        <div>
+          <img src="https://down-id.img.susercontent.com/file/3c8ff51aab1692a80c5883972a679168@resize_w320_nl.webp" class="mx-auto w-12" alt="">
+          <p class="mt-2 text-sm">Sepatu Pria</p>
+        </div>
+        <div>
+          <img src="https://down-id.img.susercontent.com/file/47ed832eed0feb62fd28f08c9229440e@resize_w320_nl.webp" class="mx-auto w-12" alt="">
+          <p class="mt-2 text-sm">Tas Pria</p>
+        </div>
+        <div>
+          <img src="https://down-id.img.susercontent.com/file/1f18bdfe73df39c66e7326b0a3e08e87@resize_w320_nl.webp" class="mx-auto w-12" alt="">
+          <p class="mt-2 text-sm">Aksesoris Fashion</p>
+        </div>
+        <div>
+          <img src="https://down-id.img.susercontent.com/file/2bdf8cf99543342d4ebd8e1bdb576f80@resize_w320_nl.webp" class="mx-auto w-12" alt="">
+          <p class="mt-2 text-sm">Jam Tangan</p>
+        </div>
+        <div>
+          <img src="https://down-id.img.susercontent.com/file/eb7d583e4b72085e71cd21a70ce47d7a@resize_w320_nl.webp" class="mx-auto w-12" alt="">
+          <p class="mt-2 text-sm">Kesehatan</p>
+        </div>
+        <div>
+          <img src="https://down-id.img.susercontent.com/file/42394b78fac1169d67c6291973a3b132@resize_w320_nl.webp" class="mx-auto w-12" alt="">
+          <p class="mt-2 text-sm">Hobi & Koleksi</p>
+        </div>
+        <div>
+          <img src="https://down-id.img.susercontent.com/file/04dba508f1ad19629518defb94999ef9@resize_w320_nl.webp" class="mx-auto w-12" alt="">
+          <p class="mt-2 text-sm">Pakaian Pria</p>
+        </div>
+
         <div class="w-[100px] h-[130px] border-r border-b border-gray-200 flex flex-col items-center justify-center p-2">
           <img src="https://down-id.img.susercontent.com/file/dcd61dcb7c1448a132f49f938b0cb553@resize_w320_nl.webp" class="w-10 h-10 object-contain" />
           <p class="mt-2 text-xs text-center leading-tight">Elektronik</p>
