@@ -129,7 +129,7 @@
       <p class="text-sm mt-2">Pulsa & Tagihan</p>
     </div>
     <div>
-      <img src="https://cf.shopee.co.id/file/icon_flash.png" class="mx-auto w-10" alt="">
+      <img src="https://i.imgur.com/IR92M0Q.png" class="mx-auto w-10" alt="">
       <p class="text-sm mt-2">Flash Sale</p>
     </div>
     <div>
