@@ -144,7 +144,7 @@
           <p class="mt-2 text-sm">Pakaian Pria</p>
         </div>
         <div>
-          <img src="https://cf.shopee.co.id/file/icon_sepatu.png" class="mx-auto w-12" alt="">
+          <img src="https://down-id.img.susercontent.com/file/3c8ff51aab1692a80c5883972a679168@resize_w320_nl.webp" class="mx-auto w-12" alt="">
           <p class="mt-2 text-sm">Sepatu Pria</p>
         </div>
         <div>
