@@ -140,7 +140,7 @@
           <p class="mt-2 text-sm">Handphone</p>
         </div>
         <div>
-          <img src="https://cf.shopee.co.id/file/icon_pakaian.png" class="mx-auto w-12" alt="">
+          <img src="https://down-id.img.susercontent.com/file/04dba508f1ad19629518defb94999ef9@resize_w320_nl.webp" class="mx-auto w-12" alt="">
           <p class="mt-2 text-sm">Pakaian</p>
         </div>
         <div>
