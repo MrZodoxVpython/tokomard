@@ -75,27 +75,6 @@
       <span class="cursor-pointer hover:underline">Modem Portable</span>
       <span class="cursor-pointer hover:underline">Kaos Sablon Custom</span>
       <span class="cursor-pointer hover:underline">Kartu XL</span>
-      <span class="cursor-pointer hover:underline">Sabun GIV Cair 900ml</span>
-      <span class="cursor-pointer hover:underline">Sandal Wanita</span>
-      <span class="cursor-pointer hover:underline">Wifi Extender TP Link</span>
-      <span class="cursor-pointer hover:underline">Wifi 7</span>
-      <span class="cursor-pointer hover:underline">Jam Tangan Pria</span>
-      <span class="cursor-pointer hover:underline">Kipas Angin Portable</span>
-      <span class="cursor-pointer hover:underline">STB Tanpa Box</span>
-      <span class="cursor-pointer hover:underline">Modem 5G</span>
-      <span class="cursor-pointer hover:underline">4000jam Tayang</span>
-      <span class="cursor-pointer hover:underline">Kabel LAN 1 Meter</span>
-      <span class="cursor-pointer hover:underline">Kabel USB Male To Male</span>
-      <span class="cursor-pointer hover:underline">Orbit Star Z2</span>
-      <span class="cursor-pointer hover:underline">Receiver Parabola</span>
-      <span class="cursor-pointer hover:underline">Adaptor 12v</span>
-      <span class="cursor-pointer hover:underline">Sticker Custom</span>
-      <span class="cursor-pointer hover:underline">Modem XL</span>
-      <span class="cursor-pointer hover:underline">Set Top Box</span>
-      <span class="cursor-pointer hover:underline">Mi Stick</span>
-      <span class="cursor-pointer hover:underline">Trojan Premium</span>
-      <span class="cursor-pointer hover:underline">Remot STB Bekas</span>
-      <span class="cursor-pointer hover:underline">SSD Bekas</span>
     </div>
   </div>
 </div>
