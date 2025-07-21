@@ -133,7 +133,7 @@
       <p class="text-sm mt-2">Flash Sale</p>
     </div>
     <div>
-      <img src="https://cf.shopee.co.id/file/icon_voucher.png" class="mx-auto w-10" alt="">
+      <img src="https://i.imgur.com/pbAaSgE.png" class="mx-auto w-10" alt="">
       <p class="text-sm mt-2">Voucher & Diskon</p>
     </div>
     <div>
