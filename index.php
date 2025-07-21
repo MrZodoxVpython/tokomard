@@ -171,7 +171,7 @@
       <!-- Grid kategori 6 kolom per baris -->
       <div class="grid grid-cols-6 border-t border-l border-gray-200">
         <!-- Ulangi ini untuk semua kategori -->
-        <div class="flex flex-col items-center justify-center border-r border-b border-gray-200 mx-8 py-8">
+        <div class="flex flex-col items-center justify-center border-r border-b border-gray-200 -mx-14 py-8">
           <img src="https://down-id.img.susercontent.com/file/dcd61dcb7c1448a132f49f938b0cb553@resize_w320_nl.webp" class="w-12 h-12 object-contain" alt="">
           <p class="mt-2 text-sm text-center">Elektronik</p>
         </div>
