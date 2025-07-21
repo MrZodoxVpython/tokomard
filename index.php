@@ -28,7 +28,7 @@
   <!-- Tailwind CSS -->
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-white text-gray-800">
+<body class="bg-gray text-gray-800">
 
   <!-- Header -->
   <header class="bg-orange-500 text-white">
