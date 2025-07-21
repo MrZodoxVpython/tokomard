@@ -117,7 +117,7 @@
 <div class="bg-white">
   <div class="max-w-7xl mx-auto grid grid-cols-6 gap-4 text-center py-6 px-4">
     <div>
-      <img src="https://cf.shopee.co.id/file/icon_store.png" class="mx-auto w-10" alt="">
+      <img src="https://w7.pngwing.com/pngs/696/502/png-transparent-three-red-shopping-bags-illustration-shopping-cart-sales-shoping-bag-with-discount-tag-love-text-heart.png" class="mx-auto w-10" alt="">
       <p class="text-sm mt-2">Tokomard Pilih Lokal</p>
     </div>
     <div>
