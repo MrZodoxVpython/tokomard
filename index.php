@@ -175,16 +175,6 @@
         <div class="flex flex-col items-center justify-center border-b border-gray-200 h-36">
           <img src="https://down-id.img.susercontent.com/file/47ed832eed0feb62fd28f08c9229440e@resize_w320_nl.webp" class="w-12 h-12 object-contain" alt="">
           <p class="mt-2 text-sm text-center">Tas Pria</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- KATEGORI -->
-  <div class="m-5">
-    <div class="max-w-[1250px] mx-auto bg-white p-6">
-      <h2 class="text-lg font-bold mb-4">KATEGORI</h2>
-      <div class="grid grid-cols-6 gap-6 text-center">
         <div>
           <img src="https://down-id.img.susercontent.com/file/dcd61dcb7c1448a132f49f938b0cb553@resize_w320_nl.webp" class="mx-auto w-12" alt="">
           <p class="mt-2 text-sm">Elektronik</p>
