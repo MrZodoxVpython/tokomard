@@ -207,6 +207,7 @@
     </div>
   </div>
 </div>
+
   <!-- Chat -->
   <div class="fixed bottom-4 right-4 z-50">
     <button class="bg-orange-500 text-white px-4 py-2 rounded-full shadow-lg">
