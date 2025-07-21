@@ -160,8 +160,8 @@
           <p class="mt-2 text-sm">Jam Tangan</p>
         </div>
         <div>
-          <img src="https://down-id.img.susercontent.com/file/id-50009109-0bd6a9ebd0f2ae9b7e8b9ce7d89897d6@resize_w320_nl.webp" class="mx-auto w-12" alt="">
-          <p class="mt-2 text-sm">Komputer & Aksesoris</p>
+          <img src="https://down-id.img.susercontent.com/file/eb7d583e4b72085e71cd21a70ce47d7a@resize_w320_nl.webp" class="mx-auto w-12" alt="">
+          <p class="mt-2 text-sm">Kesehatan</p>
         </div>
         <div>
           <img src="https://down-id.img.susercontent.com/file/5230277eefafad8611aaf703d3e99568@resize_w320_nl.webp" class="mx-auto w-12" alt="">
