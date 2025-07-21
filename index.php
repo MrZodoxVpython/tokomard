@@ -66,7 +66,7 @@
 
 <!-- Banner -->
 <div class="bg-white py-4">
-  <div class="max-w-7xl mx-auto px-4 grid grid-cols-3 gap-4 h-[250px]">
+  <div class="max-w-7xl mx-auto px-4 grid grid-cols-3 gap-1.5 h-[250px]">
     
     <!-- Carousel Banner Kiri -->
     <div class="relative col-span-2 h-full overflow-hidden rounded-lg">
