@@ -137,7 +137,7 @@
       <p class="text-sm mt-2">Voucher & Diskon</p>
     </div>
     <div>
-      <img src="https://cf.shopee.co.id/file/icon_promo.png" class="mx-auto w-10" alt="">
+      <img src="https://i.imgur.com/aGkWcBd.png" class="mx-auto w-10" alt="">
       <p class="text-sm mt-2">Semua Promo</p>
     </div>
   </div>
