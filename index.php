@@ -53,8 +53,10 @@
     </div>
 <!-- Logo dan Search -->
 <div class="flex items-center justify-between py-1 mt-3 max-w-7xl mx-auto px-20">
-  <a href="https://i.imgur.com/q3DzxiB.png"></a>
-  <div class="text-2xl font-bold text-white">Tokomard</div>
+  <a href="#">
+    <img src="https://i.imgur.com/q3DzxiB.png" alt="Tokomard Logo" class="h-10 w-auto object-contain" />
+  </a>
+  <div class="text-2xl font-bold text-white ml-4">Tokomard</div>
   <input type="text" placeholder="Search di Tokomard..." class="flex-grow mx-4 px-4 py-2 rounded">
   <div class="relative">
     <img src="https://cdn-icons-png.flaticon.com/512/263/263142.png" class="w-8 h-8" alt="cart">
