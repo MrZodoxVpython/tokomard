@@ -122,45 +122,6 @@
   </div>
 </div>
 
-<!-- KATEGORI VERTIKAL -->
-<div class="bg-[#f5f5f5] py-6">
-  <div class="max-w-[500px] mx-auto px-4">
-    <div class="bg-white border border-gray-200 rounded-md overflow-hidden">
-      <h2 class="text-base font-semibold px-6 pt-6 pb-4">KATEGORI</h2>
-
-      <div class="divide-y divide-gray-200">
-        <!-- ITEM -->
-        <div class="flex items-center gap-4 px-6 py-4">
-          <img src="https://down-id.img.susercontent.com/file/dcd61dcb7c1448a132f49f938b0cb553@resize_w320_nl.webp" class="w-10 h-10 object-contain" />
-          <p class="text-sm">Elektronik</p>
-        </div>
-
-        <div class="flex items-center gap-4 px-6 py-4">
-          <img src="https://down-id.img.susercontent.com/file/id-50009109-0bd6a9ebd0f2ae9b7e8b9ce7d89897d6@resize_w320_nl.webp" class="w-10 h-10 object-contain" />
-          <p class="text-sm">Komputer & Aksesoris</p>
-        </div>
-
-        <div class="flex items-center gap-4 px-6 py-4">
-          <img src="https://down-id.img.susercontent.com/file/5230277eefafad8611aaf703d3e99568@resize_w320_nl.webp" class="w-10 h-10 object-contain" />
-          <p class="text-sm">Handphone & Aksesoris</p>
-        </div>
-
-        <div class="flex items-center gap-4 px-6 py-4">
-          <img src="https://down-id.img.susercontent.com/file/ee7415883735917e4d218d02e5e2648e@resize_w320_nl.webp" class="w-10 h-10 object-contain" />
-          <p class="text-sm">Pakaian Pria</p>
-        </div>
-
-        <div class="flex items-center gap-4 px-6 py-4">
-          <img src="https://down-id.img.susercontent.com/file/fc0a426ff3b50716e3c9b41a7f44dc89@resize_w320_nl.webp" class="w-10 h-10 object-contain" />
-          <p class="text-sm">Aksesoris Fashion</p>
-        </div>
-
-        <!-- Tambahkan item lain dengan struktur sama -->
-      </div>
-    </div>
-  </div>
-</div>
-
 <!-- KATEGORI -->
 <div class="bg-[#f5f5f5] py-6">
   <div class="max-w-[1200px] mx-auto px-4">
