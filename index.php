@@ -124,7 +124,7 @@
 
   <!-- Kategori -->
   <div class="py-5 my-5">
-    <div class="max-w-6.5xl mx-auto px-4 sm:px-6 lg:px-8 bg-white">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 bg-white">
       <h2 class="text-lg font-bold mb-4">KATEGORI</h2>
       <div class="grid grid-cols-6 gap-6 text-center">
         <div>
