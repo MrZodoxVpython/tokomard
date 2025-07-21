@@ -176,8 +176,6 @@
           <img src="https://down-id.img.susercontent.com/file/47ed832eed0feb62fd28f08c9229440e@resize_w320_nl.webp" class="w-12 h-12 object-contain" alt="">
           <p class="mt-2 text-sm text-center">Tas Pria</p>
         </div>
-
-        <!-- Tambah baris kedua dsb sesuai kategori -->
       </div>
     </div>
   </div>
