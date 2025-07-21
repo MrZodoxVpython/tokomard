@@ -83,7 +83,7 @@
     </div>
 
     <!-- Banner Kanan -->
-    <div class="flex flex-col gap-4 h-full">
+    <div class="flex flex-col gap-1.5 h-full">
       <img src="https://cf.shopee.co.id/file/id-11134258-7rbk7-masco4vng1w296_xhdpi" 
            class="w-full h-1/2 object-cover" alt="promo kanan 1">
       <img src="https://cf.shopee.co.id/file/id-11134258-7rbk7-m71zp300x3zwda_xhdpi" 
