@@ -35,6 +35,7 @@
     <div class="max-w-7xl mx-auto px-4 py-2 flex justify-between items-center text-sm">
       <div class="flex gap-4">
         <a href="#">Seller Centre</a>
+        <span>|</span>
         <a href="#">Download</a>
         <span>|</span>
         <a href="#">Ikuti kami di</a>
