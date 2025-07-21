@@ -129,7 +129,7 @@
       <h2 class="text-lg font-semibold px-6 pt-6 pb-4">KATEGORI</h2>
 
       <div class="grid grid-cols-6 gap-0 border-t border-l border-gray-200">
-        <div class="w-[100px] h-[130px] border-r border-b border-gray-200 flex flex-col items-center justify-center p-2">
+        <div class="w-[100px]border-r border-b border-gray-200 flex flex-col items-center justify-center p-2">
           <img src="https://down-id.img.susercontent.com/file/dcd61dcb7c1448a132f49f938b0cb553@resize_w320_nl.webp" class="w-10 h-10 object-contain" />
           <p class="mt-2 text-xs text-center leading-tight">Elektronik</p>
         </div>
