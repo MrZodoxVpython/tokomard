@@ -135,7 +135,7 @@
     <img src="https://down-id.img.susercontent.com/file/dcd61dcb7c1448a132f49f938b0cb553@resize_w320_nl.webp" class="w-10 h-10 object-contain" />
     <p class="mt-2 text-xs text-center leading-tight">Elektronik</p>
   </div>
-  <div class="w-[100px] h-[100px] border-r border-b border-gray-200 flex flex-col items-center justify-center p-2">
+  <div class="w-[50px] h-[130px] border-r border-b border-gray-200 flex flex-col items-center justify-center p-2">
     <img src="https://down-id.img.susercontent.com/file/id-50009109-0bd6a9ebd0f2ae9b7e8b9ce7d89897d6@resize_w320_nl.webp" class="w-10 h-10 object-contain" />
     <p class="mt-2 text-xs text-center leading-tight">Komputer & Aksesoris</p>
   </div>
