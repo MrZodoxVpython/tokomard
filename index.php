@@ -123,7 +123,7 @@
 </div>
 <!-- KATEGORI -->
 <div class="bg-[#f5f5f5] py-6">
-  <div class="max-w-[1200px] mx-auto px-4">
+  <div class="max-w-[1250px] mx-auto px-4">
     <div class="bg-white rounded-sm border border-gray-200 p-6">
       <h2 class="text-lg font-semibold mb-4">KATEGORI</h2>
       <div class="grid grid-cols-6 gap-4 sm:gap-6 text-center">
