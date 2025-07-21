@@ -69,7 +69,7 @@
     <!-- Banner Kiri Besar -->
     <div class="col-span-2 h-full">
       <img src="https://cf.shopee.co.id/file/id-11134258-7ra0j-mbes592yn87z81_xxhdpi" 
-           class="w-full h-full object-cover rounded-lg" alt="Promo 1">
+           class="w-full h-full object-cover" alt="Promo 1">
     </div>
 
     <!-- Banner Kanan: 2 Vertikal -->
