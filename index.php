@@ -78,16 +78,16 @@
       </div>
       
       <!-- Tombol panah -->
-      <button id="prevBtn" class="absolute left-2 top-1/2 transform -translate-y-1/2 bg-black bg-opacity-30 text-white px-2 py-1 hidden">&#10094;</button>
+      <button id="prevBtn" class="absolute left-2 top-1/2 transform -translate-y-1/2 bg-black bg-opacity-30 text-white px-2 py-1 rounded-full hidden">&#10094;</button>
       <button id="nextBtn" class="absolute right-2 top-1/2 transform -translate-y-1/2 bg-black bg-opacity-30 text-white px-2 py-1 rounded-full hidden">&#10095;</button>
     </div>
 
     <!-- Banner Kanan -->
     <div class="flex flex-col gap-4 h-full">
       <img src="https://cf.shopee.co.id/file/id-11134258-7rbk7-masco4vng1w296_xhdpi" 
-           class="w-full h-1/2 object-cover rounded-lg" alt="promo kanan 1">
+           class="w-full h-1/2 object-cover" alt="promo kanan 1">
       <img src="https://cf.shopee.co.id/file/id-11134258-7rbk7-m71zp300x3zwda_xhdpi" 
-           class="w-full h-1/2 object-cover rounded-lg" alt="promo kanan 2">
+           class="w-full h-1/2 object-cover" alt="promo kanan 2">
     </div>
   </div>
 </div>
