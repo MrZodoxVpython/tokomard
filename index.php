@@ -140,31 +140,6 @@
       <img src="https://i.imgur.com/aGkWcBd.png" class="mx-auto w-10 border border-gray-300 rounded-lg" alt="">
       <p class="text-sm mt-2">Semua Promo</p>
     </div>
-    <div>
-      <img src="https://i.imgur.com/X50GiYe.png" class="mx-auto w-10 border border-gray-300 rounded-lg" alt="">
-      <p class="text-sm mt-2">Tokomard Pilih Lokal</p>
-    </div>
-    <div>
-      <img src="https://i.imgur.com/0XIROWZ.png" class="mx-auto w-10 border border-gray-300 rounded-lg" alt="">
-      <p class="text-sm mt-2">Tokomard Mall</p>
-    </div>
-    <div>
-      <img src="https://img.hotelmurah.com/m-assets/logo/Pulsa.png?v=1.1.2" class="mx-auto w-10 border border-gray-300 rounded-lg" alt="">
-      <p class="text-sm mt-2">Pulsa & Tagihan</p>
-    </div>
-    <div>
-      <img src="https://i.imgur.com/IR92M0Q.png" class="mx-auto w-10 border border-gray-300 rounded-lg" alt="">
-      <p class="text-sm mt-2">Flash Sale</p>
-    </div>
-    <div>
-      <img src="https://i.imgur.com/pbAaSgE.png" class="mx-auto w-10 border border-gray-300 rounded-lg" alt="">
-      <p class="text-sm mt-2">Voucher & Diskon</p>
-    </div>
-    <div>
-      <img src="https://i.imgur.com/aGkWcBd.png" class="mx-auto w-10 border border-gray-300 rounded-lg" alt="">
-      <p class="text-sm mt-2">Semua Promo</p>
-    </div>
-
   </div>
 </div>
 <!-- KATEGORI Grid -->
