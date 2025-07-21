@@ -145,10 +145,10 @@
         </div>
         <div>
           <img src="https://cf.shopee.co.id/file/icon_sepatu.png" class="mx-auto w-12" alt="">
-          <p class="mt-2 text-sm">Sepatu</p>
+          <p class="mt-2 text-sm">Sepatu Pria</p>
         </div>
         <div>
-          <img src="https://cf.shopee.co.id/file/icon_kesehatan.png" class="mx-auto w-12" alt="">
+          <img src="https://shopee.co.id/Sepatu-Pria-cat.11042985" class="mx-auto w-12" alt="">
           <p class="mt-2 text-sm">Kesehatan</p>
         </div>
         <div>
