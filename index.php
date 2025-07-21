@@ -65,7 +65,7 @@
 <!-- Kategori Submenu -->
 <div class="bg-orange-500">
   <div class="max-w-7xl mx-auto p-2 -m-18">
-    <div class="flex flex-wrap justify-center gap-4 text-white text-sm">
+    <div class="flex flex-wrap justify-center gap-4 text-white text-s">
       <span class="cursor-pointer hover:underline">Tas</span>
       <span class="cursor-pointer hover:underline">Huawei E537</span>
       <span class="cursor-pointer hover:underline">Antena Huawei E5577</span>
