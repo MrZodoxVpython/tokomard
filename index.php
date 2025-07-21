@@ -150,7 +150,57 @@
       Chat
     </button>
   </div>
+<script>
+  const slides = document.querySelectorAll('.carousel-img');
+  const prevBtn = document.getElementById('prevBtn');
+  const nextBtn = document.getElementById('nextBtn');
+  let current = 0;
+  let autoScroll;
 
+  function showSlide(index) {
+    slides.forEach((slide, i) => {
+      slide.style.opacity = i === index ? '1' : '0';
+    });
+  }
+
+  function nextSlide() {
+    current = (current + 1) % slides.length;
+    showSlide(current);
+  }
+
+  function prevSlide() {
+    current = (current - 1 + slides.length) % slides.length;
+    showSlide(current);
+  }
+
+  function startAutoSlide() {
+    if (slides.length > 1) {
+      autoScroll = setInterval(nextSlide, 5000);
+      nextBtn.classList.remove('hidden');
+      prevBtn.classList.remove('hidden');
+    }
+  }
+
+  function stopAutoSlide() {
+    clearInterval(autoScroll);
+  }
+
+  // Inisialisasi
+  showSlide(current);
+  startAutoSlide();
+
+  nextBtn.addEventListener('click', () => {
+    stopAutoSlide();
+    nextSlide();
+    startAutoSlide();
+  });
+
+  prevBtn.addEventListener('click', () => {
+    stopAutoSlide();
+    prevSlide();
+    startAutoSlide();
+  });
+</script>
 </body>
 </html>
 
