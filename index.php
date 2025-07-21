@@ -164,8 +164,8 @@
           <p class="mt-2 text-sm">Kesehatan</p>
         </div>
         <div>
-          <img src="https://down-id.img.susercontent.com/file/5230277eefafad8611aaf703d3e99568@resize_w320_nl.webp" class="mx-auto w-12" alt="">
-          <p class="mt-2 text-sm">Handphone</p>
+          <img src="https://down-id.img.susercontent.com/file/42394b78fac1169d67c6291973a3b132@resize_w320_nl.webp" class="mx-auto w-12" alt="">
+          <p class="mt-2 text-sm">Hobi & Koleksi</p>
         </div>
         <div>
           <img src="https://down-id.img.susercontent.com/file/04dba508f1ad19629518defb94999ef9@resize_w320_nl.webp" class="mx-auto w-12" alt="">
