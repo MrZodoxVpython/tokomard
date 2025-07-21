@@ -132,7 +132,7 @@
           <p class="mt-2 text-sm">Elektronik</p>
         </div>
         <div>
-          <img src="https://cf.shopee.co.id/file/icon_hp.png" class="mx-auto w-12" alt="">
+          <img src="https://down-id.img.susercontent.com/file/5230277eefafad8611aaf703d3e99568@resize_w320_nl.webp" class="mx-auto w-12" alt="">
           <p class="mt-2 text-sm">Handphone</p>
         </div>
         <div>
