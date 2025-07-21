@@ -121,7 +121,7 @@
       <p class="text-sm mt-2">Tokomard Pilih Lokal</p>
     </div>
     <div>
-      <img src="https://i.imgur.com/65mMa3K.png" class="mx-auto w-10 border border-gray-300 rounded-lg" alt="">
+      <img src="https://i.imgur.com/0XIROWZ.png" class="mx-auto w-10 border border-gray-300 rounded-lg" alt="">
       <p class="text-sm mt-2">Tokomard Mall</p>
     </div>
     <div>
