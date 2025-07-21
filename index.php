@@ -63,14 +63,19 @@
     </div>
   </header>
 
-  <!-- Banner -->
-  <div class="bg-gray-100 py-4">
-    <div class="max-w-7xl mx-auto grid grid-cols-2 gap-4 px-4">
-      <img src="https://cf.shopee.co.id/file/id-11134258-7ra0j-mbes592yn87z81_xxhdpi" class="w-full rounded-lg" alt="promo 1">
-      <img src="https://cf.shopee.co.id/file/id-11134258-7rbk7-m71zp300x3zwda_xhdpi" class="w-full rounded-lg" alt="promo 2">
-      <img src="https://cf.shopee.co.id/file/id-11134258-7rbk7-masco4vng1w296_xhdpi" class="w-full rounded-lg" alt="promo 3">
+<!-- Banner -->
+<div class="bg-gray-100 py-4">
+  <div class="max-w-7xl mx-auto grid grid-cols-2 gap-4 px-4">
+    <!-- Promo 1 (kiri, tinggi penuh) -->
+    <img src="https://cf.shopee.co.id/file/id-11134258-7ra0j-mbes592yn87z81_xxhdpi" class="w-full h-full rounded-lg object-cover" alt="promo 1">
+
+    <!-- Promo 2 dan 3 (kanan, ditumpuk) -->
+    <div class="flex flex-col gap-4">
+      <img src="https://cf.shopee.co.id/file/id-11134258-7rbk7-m71zp300x3zwda_xhdpi" class="w-full h-1/2 rounded-lg object-cover" alt="promo 2">
+      <img src="https://cf.shopee.co.id/file/id-11134258-7rbk7-masco4vng1w296_xhdpi" class="w-full h-1/2 rounded-lg object-cover" alt="promo 3">
     </div>
   </div>
+</div>
 
   <!-- Menu Bar -->
   <div class="max-w-7xl mx-auto grid grid-cols-6 gap-4 text-center py-6 px-4">
