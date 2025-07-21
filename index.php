@@ -146,7 +146,7 @@
 <div class="bg-[#f5f5f5] py-5">
   <div class="max-w-7xl mx-auto px-4">
     <div class="bg-white border border-gray-200">
-      <h2 class="text-lg text-gray-300 font-semibold px-6 pt-6 pb-4">KATEGORI</h2>
+      <h2 class="text-lg text-gray-500 font-semibold px-6 pt-6 pb-4">KATEGORI</h2>
 
       <!-- Grid kategori 6 kolom per baris -->
       <div class="grid grid-cols-6 border-t border-l border-gray-200">
