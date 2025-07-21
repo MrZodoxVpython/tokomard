@@ -54,7 +54,7 @@
 <!-- Logo dan Search -->
 <div class="flex items-center justify-between py-1 mt-3 max-w-7xl mx-auto px-24">
   <a href="#">
-    <img src="https://i.imgur.com/8IiXQqY.png" alt="Tokomard Logo" class="h-10 w-auto object-contain" />
+    <img src="https://i.imgur.com/8IiXQqY.png" alt="Tokomard Logo" class="h-15 w-auto object-contain" />
   </a>
   <div class="text-2xl font-bold text-white"></div>
   <input type="text" placeholder="Search di Tokomard..." class="flex-grow mx-4 px-4 py-2 rounded">
