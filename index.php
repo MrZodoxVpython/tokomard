@@ -52,6 +52,39 @@
       </div>
     </div>
 <!-- Logo dan Search -->
+<div class="flex items-center justify-between py-1 mt-3 max-w-7xl mx-auto px-24">
+  <a href="#">
+    <img src="https://i.imgur.com/q3DzxiB.png" alt="Tokomard Logo" class="h-10 w-auto object-contain" />
+  </a>
+  <div class="text-2xl font-bold text-white">Tokomard</div>
+  <input type="text" placeholder="Search di Tokomard..." class="flex-grow mx-4 px-4 py-2 rounded">
+  <div class="relative">
+    <img src="https://cdn-icons-png.flaticon.com/512/263/263142.png" class="w-8 h-8" alt="cart">
+    <span class="absolute -top-2 -right-2 bg-red-600 text-xs px-1 rounded-full">83</span>
+  </div>
+</div>
+
+<!-- Kategori Submenu -->
+<div class="bg-orange-500">
+  <div class="max-w-7xl mx-auto px-24 pb-1">
+    <div class="flex flex-wrap gap-4 text-white text-xs">
+      <div class="ml-[144px] flex flex-wrap gap-4">
+        <!-- ml-[144px] disesuaikan berdasarkan layout -->
+        <span class="cursor-pointer hover:underline">Tas</span>
+        <span class="cursor-pointer hover:underline">Huawei E537</span>
+        <span class="cursor-pointer hover:underline">Antena Huawei E5577</span>
+        <span class="cursor-pointer hover:underline">Adaptor Wifi</span>
+        <span class="cursor-pointer hover:underline">Stiker Video Unboxing</span>
+        <span class="cursor-pointer hover:underline">TV Stick Smart TV</span>
+        <span class="cursor-pointer hover:underline">Modem Portable</span>
+        <span class="cursor-pointer hover:underline">Kaos Sablon Custom</span>
+        <span class="cursor-pointer hover:underline">Kartu XL</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Logo dan Search -->
 <div class="flex items-center justify-between py-1 mt-3 max-w-7xl mx-auto px-20">
 <a href="#">
   <img src="https://i.imgur.com/q3DzxiB.png" alt="Tokomard Logo" class="h-10 w-auto object-contain" />
