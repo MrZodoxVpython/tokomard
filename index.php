@@ -244,55 +244,6 @@
 </div>
 
 
-
-<!-- KATEGORI Grid -->
-<div class="bg-[#f5f5f5] py-6">
-  <div class="max-w-[1200px] mx-auto px-4">
-    <div class="bg-white border border-gray-200">
-      <h2 class="text-lg font-semibold px-6 pt-6 pb-4">KATEGORI</h2>
-<div class="grid grid-cols-6 border-t border-l border-gray-200">
-  <div class="w-[100px] h-[130px] border-r border-b border-gray-200 flex flex-col items-center justify-center p-2">
-    <img src="https://down-id.img.susercontent.com/file/dcd61dcb7c1448a132f49f938b0cb553@resize_w320_nl.webp" class="w-10 h-10 object-contain" />
-    <p class="mt-2 text-xs text-center leading-tight">Elektronik</p>
-  </div>
-  <div class="w-[100px] h-[130px] border-r border-b border-gray-200 flex flex-col items-center justify-center p-2">
-    <img src="https://down-id.img.susercontent.com/file/id-50009109-0bd6a9ebd0f2ae9b7e8b9ce7d89897d6@resize_w320_nl.webp" class="w-10 h-10 object-contain" />
-    <p class="mt-2 text-xs text-center leading-tight">Komputer & Aksesoris</p>
-  </div>
-  <div class="w-[100px] h-[130px] border-r border-b border-gray-200 flex flex-col items-center justify-center p-2">
-    <img src="https://down-id.img.susercontent.com/file/5230277eefafad8611aaf703d3e99568@resize_w320_nl.webp" class="w-10 h-10 object-contain" />
-    <p class="mt-2 text-xs text-center leading-tight">Handphone</p>
-  </div>
-</div>
-       <!-- Tambah item kategori lainnya di sini -->
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="bg-[#f5f5f5] py-6">
-  <div class="max-w-[1200px] mx-auto px-4">
-    <div class="bg-white border border-gray-200">
-      <h2 class="text-lg font-semibold px-6 pt-6 pb-4">KATEGORI</h2>
-
-      <div class="grid grid-cols-6 gap-0 border-t border-l border-gray-200">
-        <div class="w-[100px] h-[130px] border-r border-b border-gray-200 flex flex-col items-center justify-center p-2">
-          <img src="https://down-id.img.susercontent.com/file/dcd61dcb7c1448a132f49f938b0cb553@resize_w320_nl.webp" class="w-10 h-10 object-contain" />
-          <p class="mt-2 text-xs text-center leading-tight">Elektronik</p>
-        </div>
-        <div class="w-[100px] h-[130px] border-r border-b border-gray-200 flex flex-col items-center justify-center p-2">
-          <img src="https://down-id.img.susercontent.com/file/id-50009109-0bd6a9ebd0f2ae9b7e8b9ce7d89897d6@resize_w320_nl.webp" class="w-10 h-10 object-contain" />
-          <p class="mt-2 text-xs text-center leading-tight">Komputer & Aksesoris</p>
-        </div>
-        <div class="w-[100px] h-[130px] border-r border-b border-gray-200 flex flex-col items-center justify-center p-2">
-          <img src="https://down-id.img.susercontent.com/file/5230277eefafad8611aaf703d3e99568@resize_w320_nl.webp" class="w-10 h-10 object-contain" />
-          <p class="mt-2 text-xs text-center leading-tight">Handphone</p>
-        </div>
-        <!-- Tambah item lainnya jika perlu -->
-      </div>
-    </div>
-  </div>
-</div>
 <!-- KATEGORI Grid -->
 <div class="bg-[#f5f5f5] py-6">
   <div class="max-w-[1200px] mx-auto px-4">
