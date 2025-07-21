@@ -152,7 +152,7 @@
           <p class="mt-2 text-sm">Tas Pria</p>
         </div>
         <div>
-          <img src="https://cf.shopee.co.id/file/icon_otomotif.png" class="mx-auto w-12" alt="">
+          <img src="https://down-id.img.susercontent.com/file/1f18bdfe73df39c66e7326b0a3e08e87@resize_w320_nl.webp" class="mx-auto w-12" alt="">
           <p class="mt-2 text-sm">Aksesoris Fashion</p>
         </div>
       </div>
