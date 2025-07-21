@@ -148,8 +148,8 @@
           <p class="mt-2 text-sm">Sepatu Pria</p>
         </div>
         <div>
-          <img src="https://shopee.co.id/Sepatu-Pria-cat.11042985" class="mx-auto w-12" alt="">
-          <p class="mt-2 text-sm">Kesehatan</p>
+          <img src="https://down-id.img.susercontent.com/file/47ed832eed0feb62fd28f08c9229440e@resize_w320_nl.webp" class="mx-auto w-12" alt="">
+          <p class="mt-2 text-sm">Tas Pria</p>
         </div>
         <div>
           <img src="https://cf.shopee.co.id/file/icon_otomotif.png" class="mx-auto w-12" alt="">
