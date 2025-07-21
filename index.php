@@ -131,7 +131,7 @@
       <!-- Grid kategori -->
       <div class="grid grid-cols-6 border-t border-l border-gray-200">
         <!-- Kategori item -->
-        <div class="aspect-[7/8] border-r border-b border-gray-200 flex flex-col items-center justify-center p-2">
+        <div class="aspect-[3/4] border-r border-b border-gray-200 flex flex-col items-center justify-center p-2">
           <img src="https://down-id.img.susercontent.com/file/dcd61dcb7c1448a132f49f938b0cb553@resize_w320_nl.webp" class="w-12 h-12 object-contain" alt="">
           <p class="mt-2 text-sm text-center leading-tight">Elektronik</p>
         </div>
