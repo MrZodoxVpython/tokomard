@@ -65,7 +65,7 @@
 
 <!-- Banner -->
 <div class="bg-white py-4">
-  <div class="max-w-7xl mx-auto px-4 grid grid-cols-3 gap-1 h-[250px]">
+  <div class="max-w-7xl mx-auto px-2 grid grid-cols-3 gap-2 h-[250px]">
     <!-- Banner Kiri Besar -->
     <div class="col-span-2 h-full">
       <img src="https://cf.shopee.co.id/file/id-11134258-7ra0j-mbes592yn87z81_xxhdpi" 
