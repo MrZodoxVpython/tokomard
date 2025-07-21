@@ -60,6 +60,7 @@
       <div class="relative">
         <img src="https://cdn-icons-png.flaticon.com/512/263/263142.png" class="w-8 h-8" alt="cart">
         <span class="absolute -top-2 -right-2 bg-red-600 text-xs px-1 rounded-full">83</span>
+    <div class="flex flex-wrap justify-center gap-4 text-white text-sm">
       <span class="cursor-pointer hover:underline">Tas</span>
       <span class="cursor-pointer hover:underline">Huawei E537</span>
       <span class="cursor-pointer hover:underline">Antena Huawei E5577</span>
@@ -69,6 +70,7 @@
       <span class="cursor-pointer hover:underline">Modem Portable</span>
       <span class="cursor-pointer hover:underline">Kaos Sablon Custom</span>
       <span class="cursor-pointer hover:underline">Kartu XL</span>
+    </div>
 
       </div>
     </div>
