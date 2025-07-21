@@ -131,6 +131,33 @@
       <!-- Grid kategori -->
       <div class="grid grid-cols-6 border-t border-l border-gray-200">
         <!-- Satu item kategori -->
+        <div class="border-r border-b border-gray-200 h-24 flex flex-col items-center justify-center">
+          <img src="https://down-id.img.susercontent.com/file/dcd61dcb7c1448a132f49f938b0cb553@resize_w320_nl.webp" class="w-10 h-10 object-contain" alt="">
+          <p class="mt-1 text-xs text-center">Elektronik</p>
+        </div>
+        <div class="border-r border-b border-gray-200 h-24 flex flex-col items-center justify-center">
+          <img src="https://down-id.img.susercontent.com/file/id-50009109-0bd6a9ebd0f2ae9b7e8b9ce7d89897d6@resize_w320_nl.webp" class="w-10 h-10 object-contain" alt="">
+          <p class="mt-1 text-xs text-center">Komputer & Aksesoris</p>
+        </div>
+        <div class="border-r border-b border-gray-200 h-24 flex flex-col items-center justify-center">
+          <img src="https://down-id.img.susercontent.com/file/5230277eefafad8611aaf703d3e99568@resize_w320_nl.webp" class="w-10 h-10 object-contain" alt="">
+          <p class="mt-1 text-xs text-center">Handphone</p>
+        </div>
+        <!-- Tambah kategori lainnya -->
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- KATEGORI Grid -->
+<div class="bg-[#f5f5f5] py-6">
+  <div class="max-w-[1200px] mx-auto px-4">
+    <div class="bg-white border border-gray-200">
+      <h2 class="text-lg font-semibold px-6 pt-6 pb-4">KATEGORI</h2>
+
+      <!-- Grid kategori -->
+      <div class="grid grid-cols-6 border-t border-l border-gray-200">
+        <!-- Satu item kategori -->
         <div class="border-r border-b border-gray-200 aspect-[3/4] flex flex-col items-center justify-center">
           <img src="https://down-id.img.susercontent.com/file/dcd61dcb7c1448a132f49f938b0cb553@resize_w320_nl.webp" class="w-12 h-12 object-contain" alt="">
           <p class="mt-2 text-sm text-center">Elektronik</p>
