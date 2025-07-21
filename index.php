@@ -128,7 +128,7 @@
       <h2 class="text-lg font-bold mb-4">KATEGORI</h2>
       <div class="grid grid-cols-6 gap-6 text-center">
         <div>
-          <img src="https://cf.shopee.co.id/file/icon_elektronik.png" class="mx-auto w-12" alt="">
+          <img src="https://down-id.img.susercontent.com/file/dcd61dcb7c1448a132f49f938b0cb553@resize_w320_nl.webp" class="mx-auto w-12" alt="">
           <p class="mt-2 text-sm">Elektronik</p>
         </div>
         <div>
