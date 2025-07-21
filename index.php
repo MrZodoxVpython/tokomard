@@ -136,8 +136,8 @@
       <img src="https://i.imgur.com/pbAaSgE.png" class="mx-auto w-10" alt="">
       <p class="text-sm mt-2">Voucher & Diskon</p>
     </div>
-    <div class="border-r border-b border-gray-200">
-      <img src="https://i.imgur.com/aGkWcBd.png" class="mx-auto w-10" alt="">
+    <div>
+      <img src="https://i.imgur.com/aGkWcBd.png" class="mx-auto w-10 border-r border-b border-gray-200" alt="">
       <p class="text-sm mt-2">Semua Promo</p>
     </div>
   </div>
