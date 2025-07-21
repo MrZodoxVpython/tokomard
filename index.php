@@ -202,25 +202,21 @@
           <p class="mt-2 text-sm text-center">Hobi & Koleksi</p>
         </div>
         <div class="flex flex-col items-center justify-center border-r border-b border-gray-200 h-36 p-2">
-  <img src="https://down-id.img.susercontent.com/file/04dba508f1ad19629518defb94999ef9@resize_w320_nl.webp" class="w-12 h-12 object-contain" alt="Pakaian Pria">
-  <p class="mt-2 text-sm text-center">Pakaian Pria</p>
-</div>
-
-<div class="flex flex-col items-center justify-center border-r border-b border-gray-200 h-36 p-2">
-  <img src="https://down-id.img.susercontent.com/file/3c8ff51aab1692a80c5883972a679168@resize_w320_nl.webp" class="w-12 h-12 object-contain" alt="Sepatu Pria">
-  <p class="mt-2 text-sm text-center">Sepatu Pria</p>
-</div>
-
-<div class="flex flex-col items-center justify-center border-r border-b border-gray-200 h-36 p-2">
-  <img src="https://down-id.img.susercontent.com/file/47ed832eed0feb62fd28f08c9229440e@resize_w320_nl.webp" class="w-12 h-12 object-contain" alt="Tas Pria">
-  <p class="mt-2 text-sm text-center">Tas Pria</p>
-</div>
-
-<div class="flex flex-col items-center justify-center border-b border-gray-200 h-36 p-2">
-  <img src="https://down-id.img.susercontent.com/file/1f18bdfe73df39c66e7326b0a3e08e87@resize_w320_nl.webp" class="w-12 h-12 object-contain" alt="Aksesoris Fashion">
-  <p class="mt-2 text-sm text-center">Aksesoris Fashion</p>
-</div>
-
+	  <img src="https://down-id.img.susercontent.com/file/04dba508f1ad19629518defb94999ef9@resize_w320_nl.webp" class="w-12 h-12 object-contain" alt="Pakaian Pria">
+	  <p class="mt-2 text-sm text-center">Pakaian Pria</p>
+	</div>
+	<div class="flex flex-col items-center justify-center border-r border-b border-gray-200 h-36 p-2">
+	  <img src="https://down-id.img.susercontent.com/file/3c8ff51aab1692a80c5883972a679168@resize_w320_nl.webp" class="w-12 h-12 object-contain" alt="Sepatu Pria">
+	  <p class="mt-2 text-sm text-center">Sepatu Pria</p>
+	</div>
+	<div class="flex flex-col items-center justify-center border-r border-b border-gray-200 h-36 p-2">
+	  <img src="https://down-id.img.susercontent.com/file/47ed832eed0feb62fd28f08c9229440e@resize_w320_nl.webp" class="w-12 h-12 object-contain" alt="Tas Pria">
+	  <p class="mt-2 text-sm text-center">Tas Pria</p>
+	</div>
+	<div class="flex flex-col items-center justify-center border-b border-gray-200 h-36 p-2">
+	  <img src="https://down-id.img.susercontent.com/file/1f18bdfe73df39c66e7326b0a3e08e87@resize_w320_nl.webp" class="w-12 h-12 object-contain" alt="Aksesoris Fashion">
+	  <p class="mt-2 text-sm text-center">Aksesoris Fashion</p>
+	</div>
       </div>
     </div>
   </div>
