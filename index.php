@@ -66,7 +66,7 @@
   <!-- Banner -->
   <div class="bg-gray-100 py-4">
     <div class="max-w-7xl mx-auto grid grid-cols-2 gap-4 px-4">
-      <img src="https://cf.shopee.co.id/file/id-50009109-5d43eb5ffb42e4f682d7dfe4ac645209" class="w-full rounded-lg" alt="promo 1">
+      <img src="https://cf.shopee.co.id/file/id-11134258-7ra0j-mbes592yn87z81_xxhdpi" class="w-full rounded-lg" alt="promo 1">
       <img src="https://cf.shopee.co.id/file/id-50009109-3d38e2fd0a04e3edceaa7ff3ef790b3d" class="w-full rounded-lg" alt="promo 2">
     </div>
   </div>
