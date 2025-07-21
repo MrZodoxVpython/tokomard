@@ -31,7 +31,7 @@
 <body class="bg-gray-100 text-gray-800">
 
   <!-- Header -->
-  <header class="bg-orange-500 text-white">
+  <header class="bg-orange-500 text-white sticky top-0 z-50 shadow-md">
     <div class="max-w-7xl mx-auto px-4 py-2 flex justify-between items-center text-sm">
       <div class="flex gap-2">
         <a href="#">Seller Centre</a>
