@@ -133,7 +133,7 @@
       <p class="text-sm mt-2">Flash Sale</p>
     </div>
     <div>
-      <img src="https://i.imgur.com/pbAaSgE.png" class="mx-auto w-10" alt="">
+      <img src="https://i.imgur.com/pbAaSgE.png" class="mx-auto w-10 border border-gray-300 rounded-lg" alt="">
       <p class="text-sm mt-2">Voucher & Diskon</p>
     </div>
     <div>
