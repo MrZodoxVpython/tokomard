@@ -64,7 +64,7 @@
     </div>
 <!-- Kategori Submenu -->
 <div class="bg-orange-500">
-  <div class="max-w-7xl mx-auto px-4 py-2">
+  <div class="max-w-7xl mx-auto px-8 py-2">
     <div class="flex flex-wrap justify-center gap-4 text-white text-sm">
       <span class="cursor-pointer hover:underline">Tas</span>
       <span class="cursor-pointer hover:underline">Huawei E537</span>
