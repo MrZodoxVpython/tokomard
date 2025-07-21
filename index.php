@@ -73,7 +73,7 @@
     </div>
 
     <!-- Banner Kanan: 2 Vertikal -->
-    <div class="flex flex-col gap-2 h-full">
+    <div class="flex flex-col gap-1 h-full">
       <img src="https://cf.shopee.co.id/file/id-11134258-7rbk7-m71zp300x3zwda_xhdpi" 
            class="w-full h-1/2 object-cover" alt="Promo 2">
       <img src="https://cf.shopee.co.id/file/id-11134258-7rbk7-masco4vng1w296_xhdpi" 
