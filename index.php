@@ -186,10 +186,6 @@
     </div>
   </div>
 </div>
-      </div>
-    </div>
-  </div>
-</div>
 
 <!-- KATEGORI Grid -->
 <div class="bg-[#f5f5f5] py-6">
