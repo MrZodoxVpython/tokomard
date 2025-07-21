@@ -114,7 +114,7 @@
 </div>
 
   <!-- Menu Bar -->
-<div class="bg-white -mt-7 -mb-12">
+<div class="bg-white -mt-7 -mb-8">
   <div class="max-w-7xl mx-auto grid grid-cols-6 gap-4 text-center py-6 px-4">
     <div>
       <img src="https://i.imgur.com/X50GiYe.png" class="mx-auto w-10 border border-gray-300 rounded-lg" alt="">
