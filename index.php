@@ -86,7 +86,7 @@
  </header>
 
 <!-- Banner -->
-<div class="bg-white py-6">
+<div class="bg-white py-8">
   <div class="max-w-7xl mx-auto px-4 grid grid-cols-3 gap-1.5 h-[250px]">
     
     <!-- Carousel Banner Kiri -->
