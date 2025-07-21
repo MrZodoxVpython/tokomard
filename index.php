@@ -65,23 +65,6 @@
 </div>
 <!-- Kategori Submenu -->
 <div class="bg-orange-500">
-  <div class="max-w-7xl mx-auto px-20">
-    <div class="w-full flex flex-wrap gap-4 text-white text-xs">
-      <span class="cursor-pointer hover:underline">Tas</span>
-      <span class="cursor-pointer hover:underline">Huawei E537</span>
-      <span class="cursor-pointer hover:underline">Antena Huawei E5577</span>
-      <span class="cursor-pointer hover:underline">Adaptor Wifi</span>
-      <span class="cursor-pointer hover:underline">Stiker Video Unboxing</span>
-      <span class="cursor-pointer hover:underline">TV Stick Smart TV</span>
-      <span class="cursor-pointer hover:underline">Modem Portable</span>
-      <span class="cursor-pointer hover:underline">Kaos Sablon Custom</span>
-      <span class="cursor-pointer hover:underline">Kartu XL</span>
-    </div>
-  </div>
-</div>
-
-<!-- Kategori Submenu -->
-<div class="bg-orange-500">
   <div class="max-w-7xl mx-auto px-24 pb-1">
     <div class="flex flex-wrap justify-center gap-4 text-white text-xs">
       <span class="cursor-pointer hover:underline">Tas</span>
