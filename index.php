@@ -62,6 +62,13 @@
         <span class="absolute -top-2 -right-2 bg-red-600 text-xs px-1 rounded-full">83</span>
       </div>
     </div>
+      <div class="flex gap-4">
+        <a href="#">Notifikasi</a>
+        <a href="#">Bantuan</a>
+        <a href="#">Bahasa Indonesia</a>
+        <a href="#">benjamin</a>
+      </div>
+
   </header>
 
 <!-- Banner -->
