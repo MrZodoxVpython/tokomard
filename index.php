@@ -125,7 +125,7 @@
       <p class="text-sm mt-2">Tokomard Mall</p>
     </div>
     <div>
-      <img src="https://cf.shopee.co.id/file/icon_pulsa.png" class="mx-auto w-10" alt="">
+      <img src="https://img.hotelmurah.com/m-assets/logo/Pulsa.png?v=1.1.2" class="mx-auto w-10" alt="">
       <p class="text-sm mt-2">Pulsa & Tagihan</p>
     </div>
     <div>
