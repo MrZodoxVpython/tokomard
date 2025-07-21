@@ -66,19 +66,28 @@
 
 <!-- Banner -->
 <div class="bg-white py-4">
-  <div class="max-w-7xl mx-auto px-2 grid grid-cols-3 gap-1.5 h-[250px]">
-    <!-- Banner Kiri Besar -->
-    <div class="col-span-2 h-full">
-      <img src="https://cf.shopee.co.id/file/id-11134258-7ra0j-mbes592yn87z81_xxhdpi" 
-           class="w-full h-full object-cover" alt="Promo 1">
+  <div class="max-w-7xl mx-auto px-4 grid grid-cols-3 gap-4 h-[250px]">
+    
+    <!-- Carousel Banner Kiri -->
+    <div class="relative col-span-2 h-full overflow-hidden rounded-lg">
+      <div id="carousel" class="h-full w-full relative">
+        <img src="https://cf.shopee.co.id/file/id-11134258-7ra0j-mbes592yn87z81_xxhdpi"
+             class="carousel-img absolute inset-0 w-full h-full object-cover transition-opacity duration-700 opacity-100">
+        <img src="https://cf.shopee.co.id/file/id-11134258-7rbk7-m71zp300x3zwda_xhdpi"
+             class="carousel-img absolute inset-0 w-full h-full object-cover transition-opacity duration-700 opacity-0">
+      </div>
+      
+      <!-- Tombol panah -->
+      <button id="prevBtn" class="absolute left-2 top-1/2 transform -translate-y-1/2 bg-black bg-opacity-30 text-white px-2 py-1 rounded-full hidden">&#10094;</button>
+      <button id="nextBtn" class="absolute right-2 top-1/2 transform -translate-y-1/2 bg-black bg-opacity-30 text-white px-2 py-1 rounded-full hidden">&#10095;</button>
     </div>
 
-    <!-- Banner Kanan: 2 Vertikal -->
-    <div class="flex flex-col gap-1.5 h-full">
-      <img src="https://cf.shopee.co.id/file/id-11134258-7rbk7-m71zp300x3zwda_xhdpi" 
-           class="w-full h-1/2 object-cover" alt="Promo 2">
+    <!-- Banner Kanan -->
+    <div class="flex flex-col gap-4 h-full">
       <img src="https://cf.shopee.co.id/file/id-11134258-7rbk7-masco4vng1w296_xhdpi" 
-           class="w-full h-1/2 object-cover" alt="Promo 3">
+           class="w-full h-1/2 object-cover rounded-lg" alt="promo kanan 1">
+      <img src="https://cf.shopee.co.id/file/id-11134258-7rbk7-m71zp300x3zwda_xhdpi" 
+           class="w-full h-1/2 object-cover rounded-lg" alt="promo kanan 2">
     </div>
   </div>
 </div>
